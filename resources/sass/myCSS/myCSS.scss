@@ -1,0 +1,121 @@
+html {
+    height: 100vh;
+    -ms-text-size-adjust: 100%; /* 2 */
+    -webkit-text-size-adjust: 100%;
+}
+
+hr{
+    background-color: #ff4d4d;
+    border: 0 none;
+    color: #ff4d4d;
+    height: 3px;
+}
+
+.activities{
+    border-radius: 5px;
+}
+
+.btn{
+    border-radius: 25px;
+}
+
+.img-responsive {
+    width: 20%;
+}
+
+.navbar .navbar-expand-lg .navbar-light .fixed-top .py-3{
+    opacity: 5;
+}
+
+.thumbnail {
+    position: relative;
+    text-align: center;
+    max-width: 126px;
+    margin: auto;
+}
+
+.typeIcon {
+    background-position: center;
+    display: block;
+    height: inherit;
+    top: -1px;
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: 50%;
+}
+.iconCircle {
+    width: 32px;
+    height: 32px;
+    border-radius: 25px;
+    border: 2px solid white;
+    position: absolute;
+    bottom: 10px;
+    right: 5px;
+}
+
+.iconCircleMusic {
+    background: #ff4d4d;
+}
+.iconCircleBrush {
+    background: #33ccff;
+}
+.iconCircleCamera {
+    background: #ff9900;
+}
+.iconCircleAirplane {
+    background: #6666ff;
+}
+
+.block {
+    color: white;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.col{
+    opacity: 0.7;
+}
+
+.col-8{
+    opacity: 0.7;
+}
+
+.col:hover {
+    opacity: 0.9;
+}
+
+.col-8:hover{
+    opacity: 0.9;
+}
+
+.block:hover{
+    color: black;
+}
+
+#signUp {
+    border-radius: 25px;
+    border: 1px solid #fff;
+    color: white;
+}
+#signUp:hover {
+    background-color: white;
+    color: black;
+}
+
+//.btn{
+//    background-color: #ff4d4d;
+//    border-color: #ff4d4d;
+//    color: white;
+//}
+
+//.btn-outline-danger:hover{
+//    background-color: #ff4d4d;
+//    border-color: #ff4d4d;
+//    color: white;
+//}
+
